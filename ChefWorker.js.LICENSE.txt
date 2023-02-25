@@ -257,6 +257,12 @@
  */
 
 /**
+ * @author joostrijneveld [joost@joostrijneveld.nl]
+ * @copyright Crown Copyright 2022
+ * @license Apache-2.0
+ */
+
+/**
  * @author klaxon [klaxon@veyr.com]
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
@@ -272,6 +278,12 @@
 /**
  * @author masq [github.cyberchef@masq.cc]
  * @copyright Crown Copyright 2018
+ * @license Apache-2.0
+ */
+
+/**
+ * @author mikecat
+ * @copyright Crown Copyright 2022
  * @license Apache-2.0
  */
 
